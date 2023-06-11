@@ -1,0 +1,55 @@
+.bgimg{
+    margin-left: 340px;
+    border-radius: 150px;
+    padding-top: 10px;
+    
+}
+
+.content{
+    text-align: center;
+    text-transform:uppercase;
+}
+
+.container{
+    margin-top: 50px;
+    line-height:30px;
+    font-family: 'poppins';
+    font-size: 20px;  
+    text-align: center;
+  
+   
+}
+label {
+    display: inline-block;
+    width: 150px;
+    text-align: right;
+  }
+
+h1{
+    font-family:'Times New Roman', Times, serif;
+}
+.submit:hover{
+    color:rgb(231, 238, 236);
+    background-color:rgb(156, 37, 37);
+    border:1px solid black;
+
+}
+
+
+.submit{
+    line-height:30px;
+    font-family: 'poppins';
+    font-size: 20px;
+    
+    width:100px;
+    margin-left: 10px;
+}
+html{
+     background-image: url("https://t4.ftcdn.net/jpg/02/29/25/05/240_F_229250545_KlLtxZ1TCG00QQeVFsuXwcAmXjAftbM4.jpg");
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size:cover;
+     background-attachment: fixed;
+     
+    
+}
